@@ -1,0 +1,6 @@
+[submodule "React-frontent"]
+	path = React-frontent
+	url = git@github.com:YulinSuen/React-frontent.git
+[submodule "SpringBoot-backend"]
+	path = SpringBoot-backend
+	url = git@github.com:YulinSuen/SpringBoot-backend.git
